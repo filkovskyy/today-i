@@ -10,4 +10,4 @@ App was bootstrapped with Create React App. To run it localy, you will need to c
 # Create React App
 Create React App is designed to unobtrusively remove build configuration so you can focus on code. Below are a few key pieces of information about the build configuration that might be helpful if you haven't worked with Create React App before.
 
-You can find the full version of the Create React App guide here.
+You can find the full version of the Create React App guide [here](https://github.com/facebook/create-react-app).
